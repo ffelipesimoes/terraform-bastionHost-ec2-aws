@@ -1,4 +1,4 @@
-![!Terraform](./Plan.png)
+![!Terraform](./image.png)
 
 1. For VPC switch Availability Zones from Static to Dynamic using Datasource `aws_availability_zones`
 2. Create EC2 Key pair that will be used for connecting to Bastion Host and EKS Node Group EC2 VM Instances
